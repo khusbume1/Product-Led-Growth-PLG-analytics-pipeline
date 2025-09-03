@@ -27,6 +27,7 @@ This project demonstrates a **Product-Led Growth (PLG) analytics pipeline** buil
 ![Funnel Chart](funnel_chart.png)
 
 <img width="698" height="470" alt="image" src="https://github.com/user-attachments/assets/272c8368-eacf-4f65-a219-0a2f9a85791b" />
+
 This funnel visualizes the user journey through three **Product-Led Growth (PLG)** stages:
 
 | Funnel Stage    | Approx. Users | Conversion |
