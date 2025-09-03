@@ -82,7 +82,7 @@ The Engagement Index condenses multiple activity metrics into a single score (0�
 ![Segment Heatmap](segment_heatmap.png)
 
 <img width="846" height="470" alt="image" src="https://github.com/user-attachments/assets/e547f80e-e4e2-44a0-996f-f6d00798da52" />
-## Insights
+### Insights
 - **Retention Drivers:**  
   - Users in Behavior Class 4–5 retain **3× longer** than those in Class 1–2.  
 - **OS Insights:**  
